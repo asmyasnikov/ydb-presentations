@@ -3,7 +3,7 @@
 **Докладчики:** [Евгений Иванов](https://www.linkedin.com/in/eivanov89/) и [Олег Бондарь](https://www.linkedin.com/in/olegbondar2000)\
 **Эксперт:** [Евгений Ефимкин](https://www.linkedin.com/in/evgeny-efimkin-4061a893/)\
 **Слайды:** [presentation.pdf](presentation.pdf)\
-**Видеозапись:** TBD\
+**Видеозапись:** [YouTube](https://youtu.be/BDpLLmV37hY)\
 **Мероприятие:** [SmartData 2024](https://smartdataconf.ru/talks/ebf00f5486be4a199fc6a2443e8ef076/)
 
 ## Материалы к презентации
@@ -15,4 +15,3 @@
 5. [Волатильные распределенные транзакции в YDB](https://ydb.tech/docs/ru/contributor/datashard-distributed-txs#osobennosti-vypolneniya-volatilnyh-tranzakcij).
 6. [Как мы начали использовать виртуальные потоки Java 21 и на раз-два получили дедлок в TPC-C для PostgreSQL](https://habr.com/ru/companies/ydb/articles/786550/).
 7. [Когда одного Postgres'a мало: сравнение производительности PostgreSQL и распределенных СУБД](https://habr.com/ru/companies/ydb/articles/801587/)
-
